@@ -21,6 +21,7 @@ Windows :
 ```pip install -r requirements.txt```
 
 Linux
+
 ```pip3 install -r requirements.txt```
 
 3. Buka Bot Cats di PC
