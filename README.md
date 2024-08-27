@@ -8,7 +8,7 @@ Register Here : [CATS](https://t.me/catsgang_bot/join?startapp=tKk0D2gNv5HQoVC6g
 ## Features
 
 - Multi Account
-- Check tptal balance all accounts
+- Check total balance all accounts
 
 ## Installation
 
